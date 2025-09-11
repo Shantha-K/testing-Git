@@ -1,2 +1,2 @@
 echo "Hui"
-print("hi")
+echo "hihsdhsd"
